@@ -1,4 +1,4 @@
-# Web-Project
+# Web-Project :skull_and_crossbones:
 
 Desarrollo Web Practica
 
@@ -6,7 +6,7 @@ Desarrollo Web Practica
 
 #### EDITADO 
 
-:skull_and_crossbones:
+
 
 - HTML
 - CSS
