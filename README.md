@@ -4,9 +4,11 @@ Desarrollo Web Practica
 
 > Esto es una prueba de pagina web de un formulario con boton basico
 
-#### EDITADO
+#### EDITADO 
 
-- HTML;
-- CSS;
-- JAVASCRIPT;
+:skull_and_crossbones:
+
+- HTML
+- CSS
+- JAVASCRIPT
   
